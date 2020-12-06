@@ -1,2 +1,2 @@
-# Jedha-Part1-Python
-Exercises on python
+# Jedha Fullstack-Part1-Python Programming
+Basic exercises to practice python
